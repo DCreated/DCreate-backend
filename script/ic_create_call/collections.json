@@ -1,0 +1,42 @@
+[
+	{
+		"log": "./res/Art/log.png",
+		"featured": "./res/Art/featured.png",
+		"banner": "./res/Art/banner.png",
+		"content_info": {
+			"name": "art name",
+			"desc": "art desc",
+			"category": "art"
+		}
+	},
+	{
+		"log": "./res/Collectibles/log.png",
+		"featured": "./res/Collectibles/featured.png",
+		"banner": "./res/Collectibles/banner.png",
+		"content_info": {
+			"name": "collectibles name",
+			"desc": "collectibles desc",
+			"category": "collectibles"
+		}
+	},
+	{
+		"log": "./res/Music_Video/log.png",
+		"featured": "./res/Music_Video/featured.png",
+		"banner": "./res/Music_Video/banner.png",
+		"content_info": {
+			"name": "music\/video name",
+			"desc": "music\/video desc",
+			"category": "music\/video"
+		}
+	},
+	{
+		"log": "./res/Photography/log.png",
+		"featured": "./res/Photography/featured.png",
+		"banner": "./res/Photography/banner.png",
+		"content_info": {
+			"name": "photography name",
+			"desc": "photography desc",
+			"category": "Art"
+		}
+	}
+]
